@@ -20,3 +20,7 @@ venv/
 # Model files (optional)
 # models/*.h5
 # models/*.task
+# QuickDraw dataset (too large for GitHub)
+data/quickdraw/
+data/*.npy
+*.npy
