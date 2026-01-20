@@ -3,10 +3,10 @@
 AI-powered air canvas with object recognition and math equation solving.
 
 ## Features
-- ✅ Hand tracking with MediaPipe
-- ✅ Draw in the air using gestures
-- 🚧 Object recognition from sketches
-- 🚧 Math equation solver
+-  Hand tracking with MediaPipe
+-  Draw in the air using gestures
+-  Object recognition from sketches
+-  Math equation solver and Basic Q and A.
 
 ## Setup
 
@@ -40,4 +40,4 @@ python app.py
 - [ ] Phase 3: Math solver
 
 ## Author
-Built with ❤️ using Python, OpenCV, and MediaPipe
+Built  using Python, OpenCV, and MediaPipe
