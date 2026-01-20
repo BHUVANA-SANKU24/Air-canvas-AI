@@ -1,11 +1,22 @@
-cat > .gitignore << 'EOF'
-venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Mac
 .DS_Store
-*.h5
-*.pkl
-.ipynb_checkpoints/
-models/*.h5
-!models/.gitkeep
-EOF
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Model files (optional)
+# models/*.h5
+# models/*.task
